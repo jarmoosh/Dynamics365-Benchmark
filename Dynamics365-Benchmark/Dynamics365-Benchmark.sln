@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics365-Benchmark", "Dynamics365-Benchmark\Dynamics365-Benchmark.csproj", "{7C077D5D-D73B-4954-AAC7-3F0FBC30D020}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics365-Benchmark", "Dynamics365-Benchmark\Dynamics365-Benchmark.csproj", "{207EC8E4-6856-4BD8-8473-467CE6A0D42E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C077D5D-D73B-4954-AAC7-3F0FBC30D020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C077D5D-D73B-4954-AAC7-3F0FBC30D020}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C077D5D-D73B-4954-AAC7-3F0FBC30D020}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C077D5D-D73B-4954-AAC7-3F0FBC30D020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207EC8E4-6856-4BD8-8473-467CE6A0D42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207EC8E4-6856-4BD8-8473-467CE6A0D42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207EC8E4-6856-4BD8-8473-467CE6A0D42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207EC8E4-6856-4BD8-8473-467CE6A0D42E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
