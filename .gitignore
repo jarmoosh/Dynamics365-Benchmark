@@ -3,3 +3,6 @@
 ################################################################################
 
 /Dynamics365-Benchmark/Dynamics365-Benchmark/bin/Debug/netcoreapp2.1
+/Dynamics365-Benchmark/Dynamics365-Benchmark/obj
+/Dynamics365-Benchmark/.vs/Dynamics365-Benchmark/v16
+/.vs
